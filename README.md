@@ -1,9 +1,9 @@
 # README.md
 
-> Python - 3.8.5 
-> PyTorch - 1.7.0 
-> PyTorch-lighting - 1.1.4 
-> nltk - 3.5.0
+> Python - 3.8.5 <br />
+> PyTorch - 1.7.0 <br />
+> PyTorch-lighting - 1.1.4 <br />
+> nltk - 3.5.0<br />
 
 ## 1. Word2Vect
 
